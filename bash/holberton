@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 echo "Holberton School is so coo!"
+=======
+echo "Holberton School"
+>>>>>>> update_script
